@@ -12,5 +12,9 @@
 - https://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/82_patch2/mobility/org-netbeans-modules-mobility-project-ant.nbm
 
 # SDK
+- https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
 - https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html
 - https://www.oracle.com/java/technologies/sdk-downloads.html
+
+# Issue
+- Stable with JDK 8u112: https://stackoverflow.com/questions/45696214/netbeans-wont-detect-java-me-platform
