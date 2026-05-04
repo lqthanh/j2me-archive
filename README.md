@@ -6,6 +6,7 @@
 - https://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/82_patch2/mobility/org-netbeans-api-mobility.nbm
 - https://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/82_patch2/mobility/org-netbeans-modules-mobility-cldcplatform.nbm
 - https://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/82_patch2/mobility/org-netbeans-modules-mobility-databindingme.nbm
+- https://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/82_patch2/mobility/org-netbeans-modules-mobility-end2end.nbm
 - https://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/82_patch2/mobility/org-netbeans-modules-mobility-jsr172.nbm
 - https://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/82_patch2/mobility/org-netbeans-modules-mobility-licensing.nbm
 - https://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/82_patch2/mobility/org-netbeans-modules-mobility-project-ant.nbm
